@@ -88,8 +88,7 @@ resume-platform/
 │   ├── application.properties         # 应用配置
 │   └── init.sql                       # 数据库初始化脚本
 ├── src/test/java/                     # 测试代码
-│   ├── com/resume/                    # 测试包
-│   └── README.md                      # 测试说明文档
+│   └── com/resume/                    # 测试包
 ├── resume-frontend/                   # 前端项目
 │   ├── src/                           # 前端源码
 │   │   ├── views/                     # 页面组件
